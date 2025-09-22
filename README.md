@@ -7,10 +7,9 @@
 - 🎓 Software Development Student  
 - 🖥️ Knowledge in **Java (Spring Boot), Python, and PHP**  
 - 🌱 Currently developing skills in **emerging technologies**  
-- 💡 Passionate about creating **innovative and efficient solutions**  
-- 🤝 I love collaborating on **open-source projects**  
-- ✨ Always learning. Always building.  
-
+- 🌍 Enthusiastic about building scalable and impactful applications
+- 🤝 Always looking to connect and share knowledge with others
+- 📈 Dedicated to continuous learning and improvement
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ---

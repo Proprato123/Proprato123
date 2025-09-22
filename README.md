@@ -33,5 +33,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-p%C3%A9rez-vivas-2459611a7/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emmanuelperezvivas@gmail.com)
 
- 
+ https://github.com/Proprato123/Busca-minas/blob/main/busca_minas.py
 👉 [Juega la versión real aquí](https://proprato123.github.io/Busca-minas/)
